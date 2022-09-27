@@ -1,0 +1,21 @@
+{
+  "name": "Wanda",
+  "displayName": "Wanda",
+  "description": "Magic vscode theme color",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wanda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wanda-color-theme.json"
+      }
+    ]
+  }
+}
