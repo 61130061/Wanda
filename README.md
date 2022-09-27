@@ -1,6 +1,19 @@
 # Wanda
 
-> This theme hasn't upload to vscode extension market yet.
+> This project will be uploaded on vscode extension market soon... 
 
 My magic vscode theme.
 
+## Screen Shot
+
+![VSCode Screen Shot](./docs/ScreenShot.png)
+
+
+## Install
+
+coming soon...
+
+
+## Color Palette
+
+![Color Palette](./docs/Color.png)
