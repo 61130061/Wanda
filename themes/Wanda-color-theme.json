@@ -6,6 +6,7 @@
 		"focusBorder": "#00000000",
 		"selection.background": "#A7D2CB50",
 		"list.activeSelectionBackground": "#A7D2CB50",
+		"list.focusBackground": "#A7D2CB30",
 		"editorIndentGuide.background": "#A7D2CB10",
 		"editorIndentGuide.activeBackground": "#A7D2CB20",
 		"button.background": "#FD6F9690",
